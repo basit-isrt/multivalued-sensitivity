@@ -1,7 +1,5 @@
-# Supplementary Information for "Sensitivity Analysis of Causal Effects in Observational Studies with Multivalued Treatments"
+# Supplementary Files for "Sensitivity Analysis of Causal Effects in Observational Studies with Multivalued Treatments (arXiv:2308.15986)"
 
-### Author of the Code
-- Md Abdul Basit (abasit@isrt.ac.bd)
 
 ## Software Versions
 - R version: 4.3.2 (2023-10-31)
@@ -47,7 +45,7 @@ This repository contains supplementary files for reproducing the analysis and fi
 ### `./application.Rmd`:
 - R Markdown file for reproducing tables and figures demonstrating the proposed framework (Section 5).
 
-### `./simulation_study.pdf` and `./application.Rmd`:
+### `./simulation_study.pdf` and `./application.pdf`:
 - Rendered PDF outputs of respective R Markdown files.
 
 ### `./simulation_study.R` and `./application.R`:
